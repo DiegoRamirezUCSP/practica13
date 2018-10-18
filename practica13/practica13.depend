@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539870409 source:c:\users\alumno-n415\desktop\practica13\src\hodq.cpp
+
+1539873605 source:c:\users\alumno-n415\desktop\practica13\main.cpp
+	<iostream>
+	<math.h>
+
+1539870074 c:\users\alumno-n415\desktop\practica13\include\hodq.h
+
